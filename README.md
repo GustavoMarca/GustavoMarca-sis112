@@ -6,7 +6,11 @@ El <em><strong>repositorio</strong></em> tiene  como fin, ser una muestra de com
   <li>Git</li>
   <li>VisualStudioCode</li>
 </ul>
+<<<<<<< HEAD
 <h3>Instrucciones</h3>	
+=======
+<h4>Instrucciones</h4>	
+>>>>>>> 2b8fbd8e5a37b78c17a2b9a9a135d4cde884e2ce
 <ol>
   <li>Primero crear un repositorio en GitHub y copiar su URL</li>
   <li>Abrir Git y localizar la carpeta donde se quiere clonar el repositorio y escribir el codigo <em><strong>"git clonar URL"</strong></em></li>
@@ -14,4 +18,8 @@ El <em><strong>repositorio</strong></em> tiene  como fin, ser una muestra de com
   <li>Para subir la modificacion hay que ejecutor los siguientes comandos en orden <em><strong>"git status", "git add .", "git commit", "git push" </strong></em> </li>
 </ol>
 
+<<<<<<< HEAD
 Estudiante: Gustavo David Marca Sanchez-PROGRAMACIÓN I.
+=======
+Estudiante: Gustavo David Marca Sanchez-PROGRAMACIÓN I
+>>>>>>> 2b8fbd8e5a37b78c17a2b9a9a135d4cde884e2ce
