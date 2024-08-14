@@ -16,3 +16,10 @@ El <em><strong>repositorio</strong></em> tiene  como fin, ser una muestra de com
 
 Estudiante: Gustavo David Marca Sanchez-PROGRAMACIÓN I.
 
+<h2>Comandos desde VisualStudio</h2>	
+<ul>
+  <li>Para hacer el comando <em><strong>"git add"</strong></em></li> directamente en el Visual se debe entrar a la interfaz de Source Control que esta en la barra de la izquierda,y en el apartado de Changes seleccionas la opcion con el signo más "+". 
+  <li>Para Usar el comando <em><strong>"git commit"</strong></em> en el Visual usamos la misma interfaz de Source Control, donde se vera ahora el archivo en el staged Changes, por lo que agregamos si queremos un comentario y sleccionamos la opcion de Commit.</li></li>
+  <li>Third item</li>
+  <li>Fourth item</li>
+</ul>
