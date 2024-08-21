@@ -19,7 +19,7 @@ if __name__ == '__main__':
     for i in range (n):
         print (i*i)
 
-EJERCICIO5
+EJERCICIO4
 def is_leap(year):
     if year % 400 == 0:
         leap = True
