@@ -39,3 +39,23 @@ if __name__ == '__main__':
     n = int(input())
     for i in range (n):
         print(i+1, end= "")
+
+
+Otro problema:
+n = int(input())
+for i in range (n):
+    if (i+1) % 2 != 0:
+        print((i+1)**2)
+
+
+n = int(input())
+num = (n*(n+1))/2
+print (num)
+
+cantidad = int(input("Ingrese cuantas notas pondra: "))
+suma = 0
+for i in range (cantidad):
+    nota = int(input("Ingrese la nota {}: ".format(i+1)))
+    suma += (nota)
+promedio= suma/cantidad
+print("Promedio: {}".format(promedio))  
