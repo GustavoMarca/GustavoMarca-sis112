@@ -34,3 +34,4 @@ while True:
             print("Tienes {} C°".format(funcion.f_c(f)))
     elif opcion == 4:
         break
+        
