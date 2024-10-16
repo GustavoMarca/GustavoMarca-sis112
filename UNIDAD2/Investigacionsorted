@@ -1,0 +1,18 @@
+Conceptos básicos de ordenación
+Una clasificación ascendente simple es muy fácil: simplemente llame a la función sorted(). Retorna una nueva lista ordenada:
+
+>>>
+sorted([5, 2, 3, 1, 4])
+[1, 2, 3, 4, 5]
+También puede usar el método list.sort(). Modifica la lista in situ (y retorna None para evitar confusiones). Por lo general, es menos conveniente que sorted(), pero si no necesita la lista original, es un poco más eficiente.
+
+>>>
+a = [5, 2, 3, 1, 4]
+a.sort()
+a
+[1, 2, 3, 4, 5]
+Otra diferencia es que el método list.sort() solo aplica para las listas. En contraste, la función sorted() acepta cualquier iterable.
+
+>>>
+sorted({1: 'D', 2: 'B', 3: 'B', 4: 'E', 5: 'A'})
+[1, 2, 3, 4, 5]
